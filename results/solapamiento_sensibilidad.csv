@@ -1,0 +1,7 @@
+"dataset","comparacion","dianas","firma","solapan","esperado","razon","p","p_BH"
+"GSE151680","miRNA suben -> firma baja",2947,216,57,41.2,1.39,0.00483735170663773,0.0290241102398264
+"GSE151680","miRNA bajan -> firma sube",4840,411,117,128.6,0.91,0.904732548380192,1
+"GSE327029","miRNA suben -> firma baja",2906,550,104,101,1.03,0.387643479181376,0.660191331899011
+"GSE327029","miRNA bajan -> firma sube",4813,172,66,52.3,1.26,0.0154187292761729,0.0462561878285186
+"GSE68029","miRNA suben -> firma baja",3419,0,0,0,NA,1,1
+"GSE68029","miRNA bajan -> firma sube",5760,2,1,0.5,1.99,0.440127554599341,0.660191331899011

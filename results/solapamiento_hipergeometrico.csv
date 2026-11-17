@@ -1,0 +1,5 @@
+"comparacion","dianas","firma","solapan","esperado","razon","p","p_BH"
+"miRNA suben -> firma baja (hipótesis)",3047,11,4,2.2,1.84,0.155151716073832,0.62060686429533
+"miRNA bajan -> firma sube (hipótesis)",5037,11,3,3.6,0.84,0.75027167503702,1
+"miRNA suben -> firma sube (control)",3047,11,0,2.2,0,1,1
+"miRNA bajan -> firma baja (control)",5037,11,4,3.6,1.11,0.506859946440746,1
