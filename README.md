@@ -1,7 +1,6 @@
 # miRNA en vesículas extracelulares de suero en glioblastoma y resistencia a temozolomida
 
-Trabajo Fin de Máster – Máster en Bioinformática 
-Autora: Diana Campoverde
+Trabajo Fin de Máster – Máster en Bioinformática - Autora: Diana Campoverde
 
 ## Descripción
 Análisis in silico para identificar miRNA diferencialmente expresados en
